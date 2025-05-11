@@ -55,13 +55,13 @@ digitalWrite(8, HIGH); delay(10); digitalWrite(8, LOW);
 `git clone https://github.com/yourusername/arduino-simple-ecu.git`
 `cd arduino-simple-ecu`
 
--Open the `.ino` file in the Arduino IDE
--Upload to an Arduino Uno/Nano
--Open Serial Monitor to see live RPM
--Trigger pulses via crank sensor to test
+- Open the `.ino` file in the Arduino IDE
+- Upload to an Arduino Uno/Nano
+- Open Serial Monitor to see live RPM
+- Trigger pulses via crank sensor to test
 
 ## Future Add-ons
--Injector pulse logic with PWM
--MAP/MAF sensor simulation
--Fuel/ignition lookup table (2D map)
--OLED screen or UART display for telemetry
+- Injector pulse logic with PWM
+- MAP/MAF sensor simulation
+- Fuel/ignition lookup table (2D map)
+- OLED screen or UART display for telemetry
