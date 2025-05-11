@@ -52,8 +52,8 @@ rpm = (pulseCount / 2.0) * 60;
 digitalWrite(8, HIGH); delay(10); digitalWrite(8, LOW);
 ```
 ## Setup
-`git clone https://github.com/yourusername/arduino-simple-ecu.git`
-`cd arduino-simple-ecu`
+`git clone https://github.com/abhkpr/minecu.git`
+`cd minecu`
 
 - Open the `.ino` file in the Arduino IDE
 - Upload to an Arduino Uno/Nano
