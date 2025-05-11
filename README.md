@@ -3,7 +3,7 @@ A minimal Arduino-based Engine Control Unit (ECU) prototype that simulates RPM s
 
 ## Simple Arduino-Based ECU Prototype
 
-This project is a basic simulation of an Engine Control Unit (ECU) using an Arduino. It measures engine RPM from a crankshaft sensor (like a Hall effect sensor), calculates timing, and triggers ignition pulses accordingly. Designed for educational purposes, DIY engine labs, or embedded systems experimentation.
+This project is a basic simulation of an Engine Control Unit (ECU) using an Arduino. It measures engine RPM from a crankshaft sensor (like a Hall effect sensor), calculates timing, and triggers ignition pulses accordingly. Designed for engine labs or embedded systems experimentation.
 
 ---
 
